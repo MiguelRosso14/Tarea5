@@ -1,0 +1,13 @@
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.exe
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.deps.json
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.json
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.runtimeconfig.dev.json
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.dll
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\bin\Debug\netcoreapp3.1\Tarea5.pdb
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csprojAssemblyReference.cache
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfoInputs.cache
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.AssemblyInfo.cs
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.csproj.CoreCompileInputs.cache
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.dll
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.pdb
+C:\Users\AAERT\OneDrive\Escritorio\Tarea5\obj\Debug\netcoreapp3.1\Tarea5.genruntimeconfig.cache
